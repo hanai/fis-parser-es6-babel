@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/hanai/fis-parser-es6-babel/issues"
   },
-  "homepage": "https://github.com/hanai/fis-parser-es6-babel"
+  "homepage": "https://github.com/hanai/fis-parser-es6-babel",
+  "dependencies": {
+    "babel-core": "^5.1.10"
+  }
 }
