@@ -1,0 +1,24 @@
+{
+  "name": "fis-parser-es6-babel",
+  "version": "0.0.1",
+  "description": "A parser plugin for fis to turn ES6+ code into ES5 friendly code with babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hanai/fis-parser-es6-babel.git"
+  },
+  "keywords": [
+    "fis",
+    "es6",
+    "babel"
+  ],
+  "author": "Hanai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanai/fis-parser-es6-babel/issues"
+  },
+  "homepage": "https://github.com/hanai/fis-parser-es6-babel"
+}
