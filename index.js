@@ -6,7 +6,7 @@ var options = babel.options;
 var util = babel.util;
 
 module.exports = function (content, file, conf) {
-    var result = transform(content);
+    var result = transform(content, conf);
     var code = result.code;
     //var map = result.map;
     //var ast = result.ast;
