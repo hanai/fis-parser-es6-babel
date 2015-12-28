@@ -1,6 +1,6 @@
 {
   "name": "fis-parser-es6-babel",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A parser plugin for fis to turn ES6+ code into ES5 friendly code with babel.",
   "main": "index.js",
   "scripts": {
