@@ -1,5 +1,9 @@
 # fis-parser-es6-babel
 
+[![NPM version][npm-image]][npm-url]
+[![Dependency Status][david-image]][david-url]
+[![License][license-image]][license-url]
+
 A parser plugin for fis to turn ES6+ code into ES5 friendly code with babel.
 
 ## Usage
@@ -26,3 +30,13 @@ fis.match('*.es6', {
     parser: fis.plugin('es6-babel', {})
 });
 ```
+## License
+
+[MIT](./LICENSE)
+
+[npm-image]: https://img.shields.io/npm/v/fis-parser-es6-babel.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/fis-parser-es6-babel
+[david-image]: http://img.shields.io/david/hanai/fis-parser-es6-babel.svg?style=flat-square
+[david-url]: https://david-dm.org/hanai/fis-parser-es6-babel
+[license-image]: http://img.shields.io/npm/l/fis-parser-es6-babel.svg?style=flat-square
+[license-url]: ./LICENSE
